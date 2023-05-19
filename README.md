@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Minnatul Islam</h1>
+<h1 align="center">Hey there, I'm Minnatul Islam</h1>
 <h3 align="center">A Passionate Web Developer From Dhaka,Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minnatulislam&label=Profile%20views&color=0e75b6&style=flat" alt="minnatulislam" /> </p>
@@ -9,14 +9,25 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science & Engineering at the Daffodil Institue of IIT.\
+🎓 &nbsp;I'm completed my graduation in Computer Science & Engineering at the Hajee Mohammad Danesh Science & Technology University.\
 🌱 &nbsp;I'm on track for learning more about AWS, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I purse hangout with my team mate and and listen to music like to eat food/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at minnatulislam.web@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/minnatulislam/) for more details about me. I'm open to feedback and suggestions!
 
-- 🔭 I’m currently working on **MinnsPort corporation.**
+- 🔭 I’m currently working on [Exam Managment System Tools](http://www.minnsport.com/)
+
+- 🌱 I’m currently learning **Aws,Flutter**
+
+- 👯 I’m looking to collaborate on [IOT Based Automotion System](https://www.urgentfuel.tech/)
+
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/Zahed75](https://github.com/Zahed75) -->
+
+- 💬 Ask me about **JavaScript, Nodejs, ReactJs, Expressjs, MongoDB**
+
+- 📫 How to reach me **minnatulislam.web@gmail.com**
+
+<!-- - 📄 Know about my experiences [https://www.canva.com/design/DAErLDJ7DIg/_La8KFLvlumlM7H7hDJ5ow/view?utm_content=DAErLDJ7DIg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu](https://www.canva.com/design/DAErLDJ7DIg/_La8KFLvlumlM7H7hDJ5ow/view?utm_content=DAErLDJ7DIg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+ -->
 
 <br>
 <h3 align="left">Connect with me:</h3>
