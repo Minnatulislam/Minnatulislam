@@ -5,6 +5,17 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minnatulislam" alt="minnatulislam" /></a> </p> -->
 
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science & Engineering at the Daffodil Institue of IIT.\
+🌱 &nbsp;I'm on track for learning more about AWS, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I purse hangout with my team mate and and listen to music like to eat food/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at zahed@urgentfuel.tech! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/zahedhasan/) for more details about me. I'm open to feedback and suggestions!
+
 - 🔭 I’m currently working on **MinnsPort corporation.**
 
 <br>
@@ -30,4 +41,7 @@
  <br> <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minnatulislam&show_icons=true&locale=en&layout=compact" alt="minnatulislam" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=minnatulislam&show_icons=true&locale=en" alt="minnatulislam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minnatulislam&show_icons=true&locale=en&layout=compact" alt="minnatulislam" /></p>
+
+
+<!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=minnatulislam&show_icons=true&locale=en" alt="minnatulislam" /></p> -->
