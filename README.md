@@ -13,8 +13,8 @@
 🌱 &nbsp;I'm on track for learning more about AWS, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I purse hangout with my team mate and and listen to music like to eat food/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at zahed@urgentfuel.tech! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/zahedhasan/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at minnatulislam.web@gmail.com I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/minnatulislam/) for more details about me. I'm open to feedback and suggestions!
 
 - 🔭 I’m currently working on **MinnsPort corporation.**
 
