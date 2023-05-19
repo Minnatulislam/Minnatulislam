@@ -27,8 +27,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>  </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/e106ddd11925dd3b5fbbb2e54bf853fadbd3e9aca78bfd632a06bbd6d66b5889/68747470733a2f2f692e6962622e636f2f4b6d67796670442f657870726573732e706e67" alt="express" width="55" height="55"/> </a> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
   
  </p> 
-  <br> <br>
+ <br> <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minnatulislam&show_icons=true&locale=en&layout=compact" alt="minnatulislam" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minnatulislam&show_icons=true&locale=en" alt="minnatulislam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minnatulislam&show_icons=true&locale=en&layout=compact" alt="minnatulislam" /></p> <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=minnatulislam&show_icons=true&locale=en" alt="minnatulislam" /></p>
