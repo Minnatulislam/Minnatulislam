@@ -10,19 +10,17 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm completed my graduation in Computer Science & Engineering at the Hajee Mohammad Danesh Science & Technology University.\
-🌱 &nbsp;I'm on track for learning more about AWS, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about MERN stack technology. As well as NextJs with PrismaDB.\
 ✉️ &nbsp;You can shoot me an email at minnatulislam.web@gmail.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/minnatulislam/) for more details about me. I'm open to feedback and suggestions!
 
-- 🔭 I’m currently working on [Exam Managment System Tools](http://www.minnsport.com/)
+- 🔭 I’m currently working on [Exam Managment System Tools](http://www.exambd.com/)
 
-- 🌱 I’m currently learning **Aws,Flutter**
-
-- 👯 I’m looking to collaborate on [IOT Based Automotion System](https://www.urgentfuel.tech/)
+- 🌱 I’m currently learning **Aws,Docker**
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/Zahed75](https://github.com/Zahed75) -->
 
-- 💬 Ask me about **JavaScript, Nodejs, ReactJs, Expressjs, MongoDB, Prisma**
+- 💬 Ask me about **JavaScript, Nodejs, ReactJs, Expressjs, MongoDB, Prisma, Typescript**
 
 - 📫 How to reach me **minnatulislam.web@gmail.com**
 
